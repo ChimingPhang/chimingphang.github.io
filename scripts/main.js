@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$("#fullpage").fullpage(),$(".animated").each(function(){var a=$(this).data("delay"),i=$(this).data("duration");a&&$(this).css({"animation-delay":a+"s","-webkit-animation-delay":a+"s","-moz-animation-delay":a+"s"}),i&&$(this).css({"animation-duration":i+"s","-webkit-animation-duration":i+"s","-moz-animation-duration":i+"s"})})});
