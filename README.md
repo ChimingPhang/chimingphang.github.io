@@ -66,8 +66,8 @@
 以下为我主要使用的技能
 
 - Web开发：Node/PHP
-- Web框架：Express/Koa
-- 前端框架：Bootstrap/React/Vue
+- Web框架：Express/Opencart
+- 前端框架：Bootstrap/Vue/React
 - 前端工具：Bower/Gulp/SCSS/LESS/WEBPACK
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：SVN/Git
