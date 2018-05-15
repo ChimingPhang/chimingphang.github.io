@@ -14,7 +14,7 @@
  - Github：[http://github.com/chimingphang](http://github.com/chimingphang)
  - Dribbble: [https://dribbble.com/chimingphang](https://dribbble.com/chimingphang)
 
- - 期望职位：Web前端高级程序员
+ - 期望职位：Web前端
  - 期望城市：珠海
 
 ---
@@ -72,3 +72,10 @@
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：SVN/Git
 - 单元测试：Mocha
+
+# 其他关于
+
+- 熟练阅览英文资料
+- 学习能力强，善于解决棘手问题
+
+
