@@ -9,8 +9,7 @@
 
  - 彭志明/男/1990
  - 本科/惠州学院/计算机科学与技术
- - 工作年限：5年
- - 个人网站：[http://chimingphang.cc](http://chimingphang.cc)
+ - 工作年限：6年
  - Github：[http://github.com/chimingphang](http://github.com/chimingphang)
  - Dribbble: [https://dribbble.com/chimingphang](https://dribbble.com/chimingphang)
 
@@ -21,12 +20,7 @@
 
 # 工作经历
 ## 金山办公 （ 2019年4月 ~ 至今 ）
-
-### 会员运营活动专题开发
-
-### 会员小程序开发
-
-### wps客户端增值功能开发
+主要负责：会员运营活动专题开发(vue, react)，会员小程序开发（原生，taro）, wps客户端增值功能开发（vue, react）
 
 ## 珠海安润普 （ 2016年3月 ~ 2019年1月 ）
 
