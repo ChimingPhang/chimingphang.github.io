@@ -20,7 +20,7 @@
 
 # 工作经历
 ## 金山办公 （ 2019年4月 ~ 至今 ）
-主要负责：会员运营活动专题开发(vue, react)，会员小程序开发（原生，taro）, wps客户端增值功能开发（vue, react）
+主要负责：会员运营活动专题开发(vue, react)，会员小程序开发（原生，taro）, wps客户端增值功能开发（vue, react），运营低代码平台开发（nestjs, typescript, vue）
 
 ## 珠海安润普 （ 2016年3月 ~ 2019年1月 ）
 
@@ -75,12 +75,12 @@
 以下为我主要使用的技能
 
 - Web开发：Node/PHP
-- Web框架：Express/Opencart/Wordpress
-- 前端框架：Bootstrap/Vue/React
+- Web框架：Express/Wordpress/Nestjs
+- 前端框架：Vue/React
 - 前端工具：Bower/Gulp/SCSS/LESS/WEBPACK
 - 数据库相关：MySQL
-- 版本管理、文档和自动化部署工具：SVN/Git
-- 单元测试：Mocha
+- 版本管理、文档和自动化部署工具：Git
+- 单元测试：Mocha,Jest
 
 # 其他
 
