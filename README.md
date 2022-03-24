@@ -20,7 +20,7 @@
 
 # 工作经历
 ## Airhost （ 2021年4月 ~ 至今 ）
-主要负责：PMS酒店管理后台开发(react, nextjs), POS WEB酒店引用开发(react, nextjs)
+主要负责：PMS酒店管理后台开发(react, nextjs), POS WEB酒店应用开发(react, nextjs)
 
 ## 金山办公 （ 2019年4月 ~ 2021年4月 ）
 主要负责：会员运营活动专题开发(vue, react)，会员小程序开发（原生，taro）, wps客户端增值功能开发（vue, react），运营低代码平台开发（nestjs, typescript, vue）
