@@ -14,12 +14,12 @@
  - Dribbble: [https://dribbble.com/chimingphang](https://dribbble.com/chimingphang)
 
  - 期望职位：Web前端
- - 期望城市：珠海
+ - 期望城市：远程
 
 ---
 
 # 工作经历
-## Airhost （ 2021年4月 ~ 至今 ）
+## Airhost （ 2021年4月 ~ 至今 ）(远程，工作英文文档，少量口语交流)
 主要负责：PMS酒店管理后台开发(react, nextjs), POS WEB酒店应用开发(react, nextjs)
 
 ## 金山办公 （ 2019年4月 ~ 2021年4月 ）
