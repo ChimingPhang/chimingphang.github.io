@@ -14,7 +14,7 @@
  - Dribbble: [https://dribbble.com/chimingphang](https://dribbble.com/chimingphang)
 
  - 期望职位：Web前端
- - 期望城市：远程
+ - 期望城市：远程 | 珠海
 
 ---
 
