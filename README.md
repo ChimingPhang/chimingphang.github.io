@@ -9,7 +9,7 @@
 
  - 彭志明/男/1990
  - 本科/惠州学院/计算机科学与技术
- - 工作年限：7年
+ - 工作年限：9年
  - Github：[http://github.com/chimingphang](http://github.com/chimingphang)
  - Dribbble: [https://dribbble.com/chimingphang](https://dribbble.com/chimingphang)
 
